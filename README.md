@@ -1,4 +1,4 @@
-## Smallcase Frontend Assignment Project
+
 
 Its  a frontend clone of google keep.
 
